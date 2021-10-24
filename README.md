@@ -1,6 +1,7 @@
 # README
 
 **Description**
+
 Very basic cab booking platform to allow a rider to book a cab. The cab can be booked for a single user and not for multiple users(No cab sharing functionality)
 
 Basic functionalities:
